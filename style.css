@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    
+ }
+ 
+ 
+ .container {
+     padding: 0;
+     margin: 0;
+     height: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #fff;
+     
+ }
+ 
+ input[type=button] {
+     font-size: 20px;
+     width: 100px;
+     height: 100px;
+     margin: 50px;
+     padding: 0;
+     border: none;
+     border-radius: 10px;
+     background-color: #F28482;
+     color: white;
+     text-decoration: none;
+     cursor: pointer;
+ }
+ 
+ #result {
+     font-size: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     white-space: pre;
+ }
+ 
